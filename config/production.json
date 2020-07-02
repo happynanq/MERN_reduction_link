@@ -1,0 +1,6 @@
+{
+  "PORT" : 5000,
+  "mongoURI" : "mongodb+srv://Kirill:n2HhsyskyOhKoWpX@cluster0.rqbs1.azure.mongodb.net/rediuction?retryWrites=true&w=majority",
+  "jwtSecret":"KirillTheBestProgrammer",
+  "baseUrl":"http://localhost:5000"
+}
